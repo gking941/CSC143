@@ -10,7 +10,7 @@ public class HW6 {
 	public static void main (String[] args) throws FileNotFoundException { 
 
 //		phones(); //SLLLOOOOWWWWW!!!!
-//		names(); 
+//		names(); //NPE
 //		doubleArray(); //works
 	}
 	
